@@ -90,7 +90,7 @@
 	<link rel="manifest" href="https://blog.poski.com/site.webmanifest">
 	<link rel="mask-icon" href="http://imbgg.asia/wp-content/uploads/2025/05/images.png" color="#5bbad5">
 
-	<link href="https://blog.poski.com/subdom/blog//css/main.min.css?ver=1.23" rel="stylesheet">
+	<link href="https://blog.poski.com/subdom/blog/css/main.min.css?ver=1.23" rel="stylesheet">
 	<link href="https://blog.poski.com/subdom/blog/css/main.min.css?ver=1.23" rel="stylesheet">
 
 	<script type="application/ld+json">
